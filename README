@@ -1,1 +1,5 @@
 - For use with Magento 1.4 and above
+
+The php code is located in app/design/frontend/default/featured-products/catalogue/product/featired.phtml
+
+Uses the jcarousel plug-in for the sliding effect.
